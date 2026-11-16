@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" fill="none">
+  <!-- Mark container -->
+  <g transform="translate(0, 0)">
+    <rect width="48" height="48" rx="10" fill="#242424"/>
+    <path d="M11 13C15 13 22 14.5 24 17.5V36C22 33 15 31.5 11 31.5V13Z" fill="#F7F7F5" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round"/>
+    <path d="M37 13C33 13 26 14.5 24 17.5V36C26 33 33 31.5 37 31.5V13Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round"/>
+    <line x1="24" y1="17.5" x2="24" y2="36" stroke="#242424" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M19 21.5L15 24.5L19 27.5" stroke="#242424" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29 21.5L33 24.5L29 27.5" stroke="#242424" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="24" cy="14" r="1.75" fill="#557B62"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="62" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="22" font-weight="800" letter-spacing="1.5" fill="#242424">PREP</text>
+  <!-- Tagline -->
+  <text x="63" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.2" fill="#666666">LEARN. BUILD. MASTER.</text>
+</svg>

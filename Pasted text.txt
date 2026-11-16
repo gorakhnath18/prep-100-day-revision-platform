@@ -1,0 +1,1153 @@
+PREP — 100-Day Revision Roadmap (Point-wise)
+Each day contains 1 major topic with its detailed subtopics in bullet points.
+A. Java Fundamentals — Days 1–9
+Day 1: Java Architecture
+- Java features and platform independence
+- JDK, JRE and JVM
+- Java bytecode
+- Compilation and execution lifecycle
+- JIT compiler
+- Java program structure
+Day 2: Variables and Data Types
+- Variables and identifiers
+- Primitive data types
+- Reference data types
+- Local, instance and static variables
+- Constants and final
+- Type casting and conversion
+- Wrapper classes
+- Autoboxing and unboxing
+Day 3: Operators and Conditional Statements
+- Arithmetic operators
+- Relational operators
+- Logical operators
+- Assignment operators
+- Unary and bitwise operators
+- Ternary operator
+- if, if-else and nested if
+- switch statement
+- Operator precedence
+Day 4: Loops and Iteration
+- for loop
+- while loop
+- do-while loop
+- Enhanced for loop
+- Nested loops
+- break and continue
+- Labeled break and continue
+- Infinite loops
+- Reverse iteration
+- Pattern programming
+Day 5: Arrays
+- Array declaration and initialization
+- Array traversal
+- Array insertion and deletion
+- Searching and sorting
+- One-dimensional arrays
+- Two-dimensional arrays
+- Jagged arrays
+- Array copying
+- Array methods
+- Array memory representation
+Day 6: Strings
+- String creation
+- String immutability
+- String constant pool
+- String comparison
+- == vs equals()
+- String methods
+- String concatenation
+- StringBuilder
+- StringBuffer
+- String performance
+Day 7: Methods and Recursion
+- Method declaration and invocation
+- Parameters and return types
+- Pass-by-value
+- Method overloading
+- Method scope
+- Recursion
+- Base condition
+- Recursive call stack
+- Direct and indirect recursion
+Day 8: Java Memory Management
+- Stack memory
+- Heap memory
+- Object allocation
+- References
+- Garbage collection
+- Garbage collectors
+- Memory leaks
+- Static memory concepts
+- Stack overflow
+Day 9: Complexity and Java Revision
+- Time complexity
+- Space complexity
+- Big O notation
+- Omega and Theta
+- Best, average and worst cases
+- Complexity of loops
+- Complexity of nested loops
+- Java coding revision
+B. Object-Oriented Programming — Days 10–14
+Day 10: Classes and Objects
+- Class structure
+- Object creation
+- Fields and methods
+- Constructors
+- Default constructors
+- Parameterized constructors
+- Constructor overloading
+- Constructor chaining
+- this keyword
+Day 11: Encapsulation
+- Encapsulation fundamentals
+- Data hiding
+- Access modifiers
+- Private and public members
+- Protected and default access
+- Getters and setters
+- Validation in setters
+- Immutable classes
+- Benefits of encapsulation
+Day 12: Inheritance
+- Inheritance fundamentals
+- extends keyword
+- Single inheritance
+- Multilevel inheritance
+- Hierarchical inheritance
+- super keyword
+- Constructor execution in inheritance
+- Method overriding
+- Method hiding
+- IS-A relationship
+Day 13: Polymorphism and Abstraction
+- Compile-time polymorphism
+- Runtime polymorphism
+- Method overloading
+- Method overriding
+- Dynamic method dispatch
+- Upcasting and downcasting
+- Abstract classes
+- Abstract methods
+- Interfaces
+- Default and static interface methods
+Day 14: Advanced OOP Concepts
+- Static keyword
+- Final keyword
+- Object class
+- equals() and hashCode()
+- toString()
+- Association
+- Aggregation
+- Composition
+- Coupling and cohesion
+- SOLID principles
+C. Java Collections Framework — Days 15–19
+Day 15: List Framework
+- Collections Framework hierarchy
+- Iterable and Collection interfaces
+- List interface
+- ArrayList
+- LinkedList
+- Vector
+- Stack
+- Internal working of ArrayList
+- List operations
+- Time complexity
+Day 16: Set Framework
+- Set interface
+- HashSet
+- LinkedHashSet
+- TreeSet
+- Duplicate prevention
+- Hashing
+- Hash collisions
+- Ordering and sorting
+- equals() and hashCode()
+Day 17: Map Framework
+- Map interface
+- HashMap
+- LinkedHashMap
+- TreeMap
+- Hashtable
+- Key-value storage
+- Null key and null values
+- Map operations
+- Iterating over maps
+Day 18: HashMap Internal Working
+- Hashing mechanism
+- hashCode() method
+- Hash spreading
+- Bucket index calculation
+- Collision handling
+- Separate chaining
+- Treeification
+- Load factor
+- Initial capacity
+- Resizing and rehashing
+- HashMap complexity
+Day 19: Queue and Collection Utilities
+- Queue interface
+- Deque interface
+- PriorityQueue
+- ArrayDeque
+- Iterator
+- ListIterator
+- Fail-fast behavior
+- Comparable
+- Comparator
+- Natural ordering
+- Custom sorting
+D. Multithreading and Concurrency — Days 20–23
+Day 20: Thread Fundamentals
+- Process vs thread
+- Multithreading fundamentals
+- Thread lifecycle
+- Thread class
+- Runnable interface
+- Callable interface
+- start() vs run()
+- Thread priorities
+- Thread naming
+Day 21: Synchronization
+- Race conditions
+- Critical sections
+- Synchronization
+- Synchronized methods
+- Synchronized blocks
+- Object-level locks
+- Class-level locks
+- Volatile keyword
+- Atomicity and visibility
+Day 22: Locks and Thread Coordination
+- Intrinsic locks
+- ReentrantLock
+- ReadWriteLock
+- wait()
+- notify()
+- notifyAll()
+- Deadlock
+- Starvation
+- Livelock
+- Thread coordination
+Day 23: Concurrent Programming
+- ExecutorService
+- Thread pools
+- ScheduledExecutorService
+- Future
+- CompletableFuture
+- ConcurrentHashMap
+- Concurrent collections
+- Atomic variables
+- Fork/Join framework
+- Parallel streams
+E. Advanced Java — Days 24–28
+Day 24: Exception Handling
+- Exception hierarchy
+- Throwable class
+- Error vs Exception
+- Checked exceptions
+- Unchecked exceptions
+- try-catch-finally
+- throw and throws
+- Multiple catch blocks
+- Custom exceptions
+- Try-with-resources
+Day 25: Generics and Reflection
+- Generic classes
+- Generic methods
+- Type parameters
+- Bounded types
+- Wildcards
+- Upper and lower bounds
+- Type erasure
+- Annotations
+- Reflection API
+- Runtime metadata
+Day 26: Functional Programming
+- Functional programming concepts
+- Lambda expressions
+- Functional interfaces
+- Predicate
+- Function
+- Consumer
+- Supplier
+- BiFunction
+- Method references
+- Constructor references
+Day 27: Stream API
+- Stream fundamentals
+- Stream creation
+- Intermediate operations
+- Terminal operations
+- filter()
+- map()
+- flatMap()
+- sorted()
+- distinct()
+- reduce()
+- collect()
+- groupingBy()
+- partitioningBy()
+- Optional
+Day 28: JVM and Advanced Runtime
+- JVM architecture
+- Class loading
+- Class loaders
+- Bytecode execution
+- Garbage collection
+- Garbage collector types
+- Serialization
+- Deserialization
+- Memory leaks
+- JVM monitoring and profiling
+F. JDBC and SQL — Days 29–33
+Day 29: JDBC Architecture
+- JDBC fundamentals
+- JDBC architecture
+- JDBC driver types
+- DriverManager
+- Connection
+- Statement
+- PreparedStatement
+- CallableStatement
+- Connection lifecycle
+Day 30: JDBC Operations
+- ResultSet
+- CRUD operations
+- Insert, update and delete
+- Batch processing
+- Transaction management
+- Commit and rollback
+- Auto-commit
+- Connection pooling
+- SQL exception handling
+Day 31: SQL Fundamentals
+- Database fundamentals
+- Tables, rows and columns
+- DDL commands
+- DML commands
+- DQL commands
+- DCL and TCL
+- SELECT statement
+- WHERE clause
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate functions
+- Constraints
+Day 32: SQL Querying
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- SELF JOIN
+- CROSS JOIN
+- Subqueries
+- Correlated subqueries
+- Common Table Expressions
+- UNION and UNION ALL
+- INTERSECT and EXCEPT
+- EXISTS and NOT EXISTS
+Day 33: Database Internals
+- Primary and foreign keys
+- Candidate and composite keys
+- Indexes
+- Clustered and non-clustered indexes
+- Database normalization
+- 1NF, 2NF and 3NF
+- BCNF fundamentals
+- ACID properties
+- Transaction isolation levels
+- Window functions
+- Query optimization
+- Execution plans
+G. Spring Boot and Backend Development — Days 34–42
+Day 34: Spring Core
+- Spring Framework architecture
+- Inversion of Control
+- Dependency Injection
+- Constructor injection
+- Setter injection
+- Field injection
+- BeanFactory
+- ApplicationContext
+- Spring Beans
+Day 35: Spring Bean Management
+- Bean lifecycle
+- Bean scopes
+- Singleton and prototype scopes
+- @Component
+- @Service
+- @Repository
+- @Autowired
+- @Qualifier
+- @Primary
+- Component scanning
+- Java-based configuration
+- @Bean and @Configuration
+Day 36: Spring Boot Architecture
+- Spring Boot fundamentals
+- Spring Boot architecture
+- Starter dependencies
+- Auto-configuration
+- Embedded servers
+- application.properties
+- application.yml
+- Profiles
+- Environment variables
+- Application lifecycle
+Day 37: REST API Development
+- REST architecture
+- REST principles
+- HTTP protocol
+- HTTP methods
+- GET, POST, PUT, PATCH, DELETE
+- HTTP status codes
+- @RestController
+- @RequestMapping
+- @GetMapping and @PostMapping
+- @PathVariable
+- @RequestParam
+- @RequestBody
+- ResponseEntity
+Day 38: Backend Architecture
+- Layered architecture
+- Controller layer
+- Service layer
+- Repository layer
+- Entity classes
+- DTO classes
+- Request and response objects
+- Dependency management
+- Separation of concerns
+- Model mapping
+Day 39: Spring Data JPA and Hibernate
+- ORM fundamentals
+- JPA architecture
+- Hibernate architecture
+- Entity lifecycle
+- @Entity and @Id
+- Entity relationships
+- One-to-One
+- One-to-Many
+- Many-to-One
+- Many-to-Many
+- Lazy and eager loading
+- Cascading
+- EntityManager
+Day 40: Database Operations
+- JpaRepository
+- CRUD operations
+- Derived query methods
+- JPQL
+- Native SQL queries
+- Pagination
+- Sorting
+- @Transactional
+- Transaction propagation
+- Transaction isolation
+- N+1 query problem
+Day 41: API Quality and Documentation
+- Bean Validation
+- @Valid
+- @NotNull and @NotBlank
+- Custom validation
+- Global exception handling
+- @ControllerAdvice
+- @ExceptionHandler
+- Logging
+- SLF4J and Logback
+- Swagger
+- OpenAPI documentation
+Day 42: Testing and Backend Revision
+- Unit testing
+- Integration testing
+- JUnit
+- Mockito
+- Mocking and stubbing
+- Assertions
+- @SpringBootTest
+- MockMvc
+- API testing
+- Test coverage
+H. Spring Security — Days 43–47
+Day 43: Security Fundamentals
+- Authentication vs authorization
+- Spring Security architecture
+- SecurityFilterChain
+- Security filters
+- SecurityContext
+- Authentication object
+- Authorization rules
+- Request matchers
+Day 44: User Authentication
+- UserDetails
+- UserDetailsService
+- AuthenticationManager
+- AuthenticationProvider
+- PasswordEncoder
+- BCrypt
+- User registration
+- Login workflow
+- Password verification
+Day 45: JWT Authentication
+- JWT fundamentals
+- JWT structure
+- Header, payload and signature
+- Token generation
+- Token validation
+- Access tokens
+- Refresh tokens
+- Token expiration
+- Token revocation
+- Stateless authentication
+Day 46: Authorization and RBAC
+- Role-based access control
+- Roles and authorities
+- Permissions
+- hasRole()
+- hasAuthority()
+- @PreAuthorize
+- @PostAuthorize
+- Method-level security
+- Protected endpoints
+Day 47: Web Security
+- CORS
+- CSRF
+- Session management
+- Stateless sessions
+- OAuth2 fundamentals
+- OAuth2 login
+- Secure password storage
+- OWASP Top 10
+- Security best practices
+I. Docker and Kubernetes — Days 48–51
+Day 48: Docker Fundamentals
+- Virtual machines vs containers
+- Docker architecture
+- Docker Engine
+- Docker images
+- Docker containers
+- Dockerfile
+- Image layers
+- Docker build
+- Docker run
+- Container lifecycle
+Day 49: Advanced Docker
+- Docker volumes
+- Bind mounts
+- Docker networking
+- Bridge network
+- Host network
+- Docker Compose
+- Environment variables
+- Multi-stage builds
+- Container logs
+- Image optimization
+Day 50: Kubernetes Fundamentals
+- Kubernetes architecture
+- Control plane
+- Worker nodes
+- API server
+- Scheduler
+- Controller manager
+- Pods
+- ReplicaSets
+- Deployments
+- Namespaces
+Day 51: Kubernetes Operations
+- Kubernetes Services
+- ClusterIP
+- NodePort
+- LoadBalancer
+- Ingress
+- ConfigMaps
+- Secrets
+- Persistent volumes
+- Liveness probes
+- Readiness probes
+- Horizontal scaling
+- Rolling updates
+- Rollbacks
+J. React and Full-Stack Development — Days 52–61
+Day 52: JavaScript ES6+
+- var, let and const
+- Data types
+- Arrow functions
+- Template literals
+- Destructuring
+- Spread and rest operators
+- Array methods
+- map(), filter(), reduce()
+- Promises
+- async/await
+- Modules
+- Closures
+Day 53: React Fundamentals
+- React architecture
+- Virtual DOM
+- JSX
+- Functional components
+- Props
+- Component composition
+- Rendering
+- Component reusability
+- Fragment
+Day 54: State and Events
+- useState
+- State management
+- Event handling
+- Conditional rendering
+- Lists and keys
+- Controlled components
+- Uncontrolled components
+- State updates
+- Props drilling
+Day 55: React Hooks I
+- useEffect
+- Effect lifecycle
+- Dependency arrays
+- Cleanup functions
+- Side effects
+- useRef
+- DOM references
+- Previous values
+- Component lifecycle concepts
+Day 56: React Hooks II
+- useMemo
+- useCallback
+- useContext
+- Custom hooks
+- Context API
+- State sharing
+- Memoization
+- Performance optimization
+- React.memo
+Day 57: Routing and Forms
+- React Router
+- BrowserRouter
+- Routes and Route
+- Link and NavLink
+- Nested routes
+- Dynamic routes
+- Protected routes
+- Form handling
+- Form validation
+Day 58: API Integration
+- Fetch API
+- Axios
+- HTTP requests
+- GET, POST, PUT, DELETE
+- API integration
+- Loading states
+- Error handling
+- Axios interceptors
+- JSON handling
+- Environment variables
+Day 59: Frontend-Backend Integration
+- React + Spring Boot
+- REST API integration
+- CORS configuration
+- JWT authentication flow
+- Token management
+- Protected routes
+- Login and registration
+- Request and response lifecycle
+Day 60: Full-Stack Architecture
+- Frontend architecture
+- Backend architecture
+- Database integration
+- CRUD workflow
+- Authentication workflow
+- Authorization workflow
+- API design
+- Application structure
+- Error handling
+- State management
+Day 61: Deployment and Debugging
+- Production builds
+- Environment configuration
+- Frontend deployment
+- Backend deployment
+- Database deployment
+- Debugging
+- Browser DevTools
+- Network inspection
+- Logging
+- Performance optimization
+K. Low-Level Design — Days 62–67
+Day 62: Design Principles
+- SOLID principles
+- Single Responsibility
+- Open/Closed
+- Liskov Substitution
+- Interface Segregation
+- Dependency Inversion
+- DRY
+- KISS
+- YAGNI
+- Coupling and cohesion
+Day 63: UML and Object Modelling
+- UML fundamentals
+- Class diagrams
+- Sequence diagrams
+- Use case diagrams
+- Association
+- Aggregation
+- Composition
+- Inheritance relationships
+- Interfaces
+- Object relationships
+Day 64: Creational Design Patterns
+- Singleton
+- Factory Method
+- Abstract Factory
+- Builder
+- Prototype
+- Object creation principles
+- Pattern implementation
+- Real-world use cases
+Day 65: Structural Design Patterns
+- Adapter
+- Decorator
+- Facade
+- Proxy
+- Composite
+- Bridge
+- Structural relationships
+- Real-world implementations
+Day 66: Behavioral Design Patterns
+- Strategy
+- Observer
+- State
+- Command
+- Template Method
+- Chain of Responsibility
+- Iterator
+- Mediator
+- Behavioral use cases
+Day 67: LLD Case Studies
+- Parking Lot
+- Elevator System
+- Library Management
+- Splitwise
+- Class identification
+- Interface design
+- Object relationships
+- Extensibility
+- Design trade-offs
+L. Python and AI/ML — Days 68–74
+Day 68: Python Fundamentals
+- Python syntax
+- Variables and data types
+- Strings
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Slicing
+- List comprehensions
+- Type conversion
+Day 69: Python Programming
+- Functions
+- Lambda expressions
+- Decorators
+- Iterators
+- Generators
+- OOP
+- Inheritance
+- Exception handling
+- File handling
+- Modules and packages
+- Virtual environments
+- pip
+Day 70: AI and ML Foundations
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- AI vs ML vs DL
+- ML workflow
+- Datasets
+- Features and labels
+- Training data
+- Validation data
+- Testing data
+- Supervised learning
+- Unsupervised learning
+- Reinforcement learning fundamentals
+Day 71: Regression Algorithms
+- Regression fundamentals
+- Linear regression
+- Simple linear regression
+- Multiple linear regression
+- Polynomial regression
+- Logistic regression
+- Cost functions
+- Loss functions
+- Gradient descent
+- Model assumptions
+Day 72: Classification Algorithms
+- Classification fundamentals
+- Binary classification
+- Multiclass classification
+- Decision trees
+- Random forests
+- K-Nearest Neighbors
+- Support Vector Machines
+- Naive Bayes
+- Classification boundaries
+- Confusion matrix
+Day 73: Unsupervised Learning
+- Clustering fundamentals
+- K-means clustering
+- Hierarchical clustering
+- DBSCAN fundamentals
+- Centroids
+- Distance metrics
+- Dimensionality reduction
+- Principal Component Analysis
+- Feature extraction
+Day 74: ML Evaluation and Neural Networks
+- Feature engineering
+- Feature selection
+- Data normalization
+- Standardization
+- Overfitting
+- Underfitting
+- Bias-variance trade-off
+- Regularization
+- Cross-validation
+- Accuracy
+- Precision and recall
+- F1-score
+- MAE, MSE and RMSE
+- Neural networks
+- Neurons and layers
+- Activation functions
+- Forward propagation
+- Backpropagation
+- Loss optimization
+M. LLMs, RAG and Agentic AI — Days 75–89
+LLMs and Generative AI
+Day 75: Generative AI and LLM Fundamentals
+- Artificial Intelligence vs Generative AI
+- Large Language Models
+- LLM architecture overview
+- Model parameters
+- Tokens
+- Tokenization
+- Vocabulary
+- Pre-training
+- Post-training
+- Instruction tuning
+- Foundation models
+- Open-source vs closed-source models
+Day 76: Transformer Architecture
+- Neural network foundations
+- Sequence modelling
+- Encoder architecture
+- Decoder architecture
+- Encoder-decoder architecture
+- Attention mechanism
+- Self-attention
+- Multi-head attention
+- Query, Key and Value
+- Positional encoding
+- Feed-forward networks
+- Transformer architecture workflow
+Day 77: Embeddings and Model Inference
+- Word embeddings
+- Sentence embeddings
+- Vector representations
+- Embedding dimensions
+- Semantic similarity
+- Cosine similarity
+- Context windows
+- Model inference
+- Temperature
+- Top-K sampling
+- Top-P sampling
+- Quantization
+- Model latency and throughput
+Day 78: Prompt Engineering and LLM Integration
+- Prompt engineering
+- System prompts
+- User prompts
+- Zero-shot prompting
+- Few-shot prompting
+- Role prompting
+- Chain-of-thought concepts
+- Prompt templates
+- Structured outputs
+- JSON output
+- Function calling
+- Tool calling
+- Hallucinations
+- Fine-tuning vs RAG
+- LLM evaluation
+RAG Engineering
+Day 79: RAG Architecture and Data Ingestion
+- Retrieval-Augmented Generation
+- RAG architecture
+- Retrieval pipeline
+- Generation pipeline
+- Document loaders
+- PDF parsing
+- Text extraction
+- Data cleaning
+- Metadata extraction
+- Document ingestion
+- Indexing pipeline
+Day 80: Chunking and Embeddings
+- Document chunking
+- Fixed-size chunking
+- Recursive chunking
+- Semantic chunking
+- Chunk size
+- Chunk overlap
+- Embedding models
+- Embedding generation
+- Vector representation
+- Embedding storage
+- Embedding model selection
+Day 81: Vector Databases and Retrieval
+- Vector databases
+- ChromaDB
+- FAISS
+- Pinecone fundamentals
+- Vector indexing
+- Similarity search
+- Cosine similarity
+- Euclidean distance
+- Top-K retrieval
+- Metadata filtering
+- Vector database operations
+- Retrieval pipeline
+Day 82: Advanced RAG and Evaluation
+- Dense retrieval
+- Sparse retrieval
+- Hybrid search
+- Reranking
+- Query rewriting
+- Query expansion
+- Parent-child retrieval
+- Context precision
+- Context recall
+- RAGAS fundamentals
+- Advanced RAG
+- Agentic RAG
+- Hallucination reduction
+- Retrieval evaluation
+LangChain
+Day 83: LangChain Core
+- LangChain architecture
+- Model integrations
+- Chat models
+- Prompt templates
+- Output parsers
+- Chains
+- Sequential chains concepts
+- LCEL
+- Runnable interfaces
+- Structured outputs
+Day 84: LangChain Application Components
+- Document loaders
+- Text splitters
+- Retrievers
+- Vector stores
+- Tools
+- Tool integration
+- Retrieval chains
+- RAG implementation
+- Conversation history
+- LangChain application architecture
+LangGraph
+Day 85: LangGraph Fundamentals
+- Graph-based workflows
+- StateGraph
+- State management
+- Nodes
+- Edges
+- START and END
+- Reducers
+- Conditional edges
+- Routing
+- Graph execution
+Day 86: Advanced LangGraph
+- Cycles
+- Checkpointing
+- Persistence
+- Interrupts
+- Human-in-the-loop
+- Streaming
+- State recovery
+- Workflow execution
+- Error handling
+- Durable execution concepts
+Agentic AI and MCP
+Day 87: AI Agent Architecture
+- AI agent fundamentals
+- Agent architecture
+- Agent loop
+- Reasoning and planning
+- ReAct architecture
+- Tool calling
+- Function calling
+- Action execution
+- Agent workflows
+- Workflow vs agent
+Day 88: Agent Memory and Multi-Agent Systems
+- Short-term memory
+- Long-term memory
+- Conversation memory
+- Persistent memory
+- State management
+- Multi-agent architecture
+- Agent orchestration
+- Agent collaboration
+- Task delegation
+- Agent communication
+- Multi-agent workflows
+Day 89: MCP and Production Agents
+- Model Context Protocol
+- MCP architecture
+- MCP clients
+- MCP servers
+- MCP tools
+- MCP resources
+- MCP prompts
+- Tool permissions
+- Human approval
+- Guardrails
+- Agent evaluation
+- Agent observability
+- Failure handling
+- Responsible AI
+- Production agent architecture
+N. HLD and System Design — Days 90–96
+Day 90: Requirements and Estimation
+- Functional requirements
+- Non-functional requirements
+- Use cases
+- Capacity estimation
+- Traffic estimation
+- QPS
+- Storage estimation
+- Bandwidth estimation
+- System constraints
+Day 91: Scalability and Availability
+- Vertical scaling
+- Horizontal scaling
+- Load balancing
+- Reverse proxies
+- Latency
+- Throughput
+- Availability
+- Reliability
+- Fault tolerance
+- High availability
+Day 92: Database and Caching Design
+- SQL vs NoSQL
+- Database selection
+- Indexing
+- Replication
+- Sharding
+- Partitioning
+- Caching fundamentals
+- Cache invalidation
+- Cache eviction
+- CDN
+- Read and write patterns
+Day 93: Distributed Messaging
+- Message queues
+- Synchronous vs asynchronous communication
+- Kafka architecture
+- Producers
+- Consumers
+- Topics
+- Partitions
+- Offsets
+- Consumer groups
+- Event-driven architecture
+- Message delivery guarantees
+Day 94: Microservices Architecture
+- Monolith vs microservices
+- Microservices fundamentals
+- API Gateway
+- Service discovery
+- Inter-service communication
+- REST communication
+- Event-driven communication
+- Circuit breaker
+- Retries
+- Resilience
+- Distributed tracing
+Day 95: Distributed Systems
+- Distributed system fundamentals
+- CAP theorem
+- Consistency
+- Eventual consistency
+- Distributed transactions
+- Two-phase commit concepts
+- Saga pattern
+- Idempotency
+- Rate limiting
+- Fault tolerance
+- Observability
+Day 96: System Design Case Studies
+- URL shortener
+- WhatsApp-like messaging system
+- Notification system
+- E-commerce platform
+- Requirement analysis
+- API design
+- Database schema
+- Component architecture
+- Scaling decisions
+- Trade-offs
+O. Interview Preparation — Days 97–100
+Day 97: Core Java Interviews
+- Java fundamentals
+- OOP interview questions
+- Collections interview questions
+- HashMap internal working
+- Concurrency questions
+- JVM and memory questions
+- Java coding problems
+- Frequently asked differences
+Day 98: Backend and DSA Interviews
+- DSA patterns
+- Array and String problems
+- Hashing problems
+- Tree and graph problems
+- SQL queries
+- Spring Boot interview questions
+- REST API questions
+- JPA and Hibernate
+- Spring Security and JWT
+Day 99: Design and Project Interviews
+- SOLID principles
+- Design patterns
+- LLD questions
+- HLD questions
+- Distributed system concepts
+- Project architecture
+- Technical decision-making
+- Trade-offs
+- Project explanation
+Day 100: Final Interview Simulation
+- Mock technical interview
+- DSA coding round
+- Java rapid-fire questions
+- Backend interview simulation
+- LLD/HLD discussion
+- Resume walkthrough
+- Behavioral questions
+- Weak-topic revision
+- Final preparation    
+
+
+ remove  everything from my website   i wan like this day wise  daily topics and  when i clic on them i get these sub topics and  and these sub topics have check boxes simple  
